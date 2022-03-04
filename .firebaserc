@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "e-commerce-app-d7d37": {
+      "hosting": {
+        "E-commerceApp": [
+          "e-commerce-app-d7d37"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "e-commerce-app-d7d37"
+  }
+}
